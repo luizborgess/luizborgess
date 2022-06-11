@@ -3,7 +3,7 @@
   <span align="left">
 <h3>👋 Hi, I’m @luizborgess</h3>
     <br>
-    <h4>Using these tools:</h4>
+    <h4>I'm Using these tools:</h4>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -17,7 +17,7 @@
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizborgess&layout=compact&langs_count=7&theme=tokyonight"/>
   </span>
 <br>    
-<h4>Hardware and OS enthusiast using:</h4>
+<h4>And also a Hardware and OS enthusiast using:</h4>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
