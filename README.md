@@ -30,7 +30,7 @@ and maybe WSL too?
  ##
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=luizborgess">
  <h4>Setup:</h4>
- <img src="https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+ <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
  <img src="https://img.shields.io/badge/AMD-Radeon_RX_570-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
 
 
