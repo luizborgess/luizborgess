@@ -1,7 +1,7 @@
 
 <div style="display: inline_block" >
   <span align="left">
-<h3>👋 Hi, I’m @luizborgess</h3>
+<h3>👋 Hi, I’m @luizborges</h3>
     <br>
     <h4>I'm Using these tools:</h4>
     <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
