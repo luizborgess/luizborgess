@@ -15,17 +15,14 @@
 #### Cloud Providers
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
 
----
 
 ### 💻 Operating Systems
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"> <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 
----
 
 ### 🖥️ Hardware Setup
 <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Ryzen 5 5600"> <img src="https://img.shields.io/badge/NVIDIA-GTX_2060_Super-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GTX 2060 Super">
 
----
 
 ### 📊 GitHub Stats
 <div align="center">
